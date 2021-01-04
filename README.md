@@ -4,10 +4,9 @@ Custom configuration files for:
 * Bash
 * Zsh
 * Git
+* Ssh
 * Tmux
-* Latex
 * Vim
-* Latex includes
 * Custom scripts
 
 ### Quick install
